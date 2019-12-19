@@ -1,6 +1,6 @@
 #pragma once
 
-#define TESTING
+//#define TESTING
 #define BLAS_INSTALLED
 
 #ifdef TESTING
